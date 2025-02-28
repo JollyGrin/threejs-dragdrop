@@ -1,5 +1,3 @@
-
-
 # Threlte GLTF Drag & Drop Example
 
 https://github.com/user-attachments/assets/1d60975e-7205-45ad-ae64-700c050778e0
