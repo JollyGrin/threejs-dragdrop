@@ -1,4 +1,8 @@
+
+
 # Threlte GLTF Drag & Drop Example
+
+https://github.com/user-attachments/assets/1d60975e-7205-45ad-ae64-700c050778e0
 
 This project demonstrates how to implement drag and drop functionality for GLTF/GLB models in a Threlte application. It shows how to load 3D models dynamically and replace them at runtime using the browser's drag and drop API.
 
